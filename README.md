@@ -5,7 +5,7 @@ ABOUT THE COMPANY
 Bellabeat is a high-tech company that manufactures health-focused smart products. Collecting data on activity, sleep, stress, and reproductive health has allowed Bellabeat to empower women with knowledge about their own health and habits. Bellabeat has grown rapidly and quickly positioned itself as a tech-driven wellness company for women.
 
  Key Stakeholders
- 
+
 • Urška Sršen Cofounder and Chief Creative Officer.
 • Sando Mur Cofounder and key member of the executive team.
 • Bellabeat Marketing analytics team A team of data analysts responsible for collecting, analyzing, and reporting data that helps guide Bellabeat’s marketing strategy.
